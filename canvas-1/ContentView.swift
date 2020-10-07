@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  canvas-1
+//  Canvas
 //
 //  Created by Javier Fuchs on 07/10/2020.
 //

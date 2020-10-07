@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		95C8F4B0252E09D50095E68B /* canvas_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C8F4AF252E09D50095E68B /* canvas_1App.swift */; };
+		95C8F4B0252E09D50095E68B /* CanvasViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C8F4AF252E09D50095E68B /* CanvasViews.swift */; };
 		95C8F4B2252E09D50095E68B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C8F4B1252E09D50095E68B /* ContentView.swift */; };
 		95C8F4B4252E09DA0095E68B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95C8F4B3252E09DA0095E68B /* Assets.xcassets */; };
 		95C8F4B7252E09DA0095E68B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95C8F4B6252E09DA0095E68B /* Preview Assets.xcassets */; };
@@ -36,7 +36,7 @@
 
 /* Begin PBXFileReference section */
 		95C8F4AC252E09D50095E68B /* canvas-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "canvas-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		95C8F4AF252E09D50095E68B /* canvas_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = canvas_1App.swift; sourceTree = "<group>"; };
+		95C8F4AF252E09D50095E68B /* CanvasViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanvasViews.swift; sourceTree = "<group>"; };
 		95C8F4B1252E09D50095E68B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		95C8F4B3252E09DA0095E68B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95C8F4B6252E09DA0095E68B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -99,7 +99,7 @@
 		95C8F4AE252E09D50095E68B /* canvas-1 */ = {
 			isa = PBXGroup;
 			children = (
-				95C8F4AF252E09D50095E68B /* canvas_1App.swift */,
+				95C8F4AF252E09D50095E68B /* CanvasViews.swift */,
 				95C8F4B1252E09D50095E68B /* ContentView.swift */,
 				95C8F4DD252E13E20095E68B /* CircleImage.swift */,
 				95C8F4E2252E14A20095E68B /* MapView.swift */,
@@ -267,7 +267,7 @@
 			files = (
 				95C8F4B2252E09D50095E68B /* ContentView.swift in Sources */,
 				95C8F4E3252E14A20095E68B /* MapView.swift in Sources */,
-				95C8F4B0252E09D50095E68B /* canvas_1App.swift in Sources */,
+				95C8F4B0252E09D50095E68B /* CanvasViews.swift in Sources */,
 				95C8F4DE252E13E20095E68B /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -427,6 +427,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"canvas-1/Preview Content\"";
+				DEVELOPMENT_TEAM = 27XTSJS68A;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "canvas-1/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -448,6 +449,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"canvas-1/Preview Content\"";
+				DEVELOPMENT_TEAM = 27XTSJS68A;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "canvas-1/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;

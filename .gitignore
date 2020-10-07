@@ -1,0 +1,55 @@
+# Compiled
+*.class
+*.rej
+*.orig
+*.dll
+*.exe
+*.so
+*.o
+*.pyc
+
+# Backup files
+*~
+
+# Xcode
+xcuserdata
+*.xccheckout
+*.pbxuser
+ObjectiveC.gcno
+QuartzCore.gcno
+**/DerivedData/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+Thumbs.db
+
+# Script generated files
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+
+# Folders
+_obj
+_test
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+
+tmp
+build
+IDEWorkspaceChecks.plist

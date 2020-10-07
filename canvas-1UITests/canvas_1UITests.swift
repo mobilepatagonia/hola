@@ -1,6 +1,6 @@
 //
 //  canvas_1UITests.swift
-//  canvas-1UITests
+//  CanvasUITests
 //
 //  Created by Javier Fuchs on 07/10/2020.
 //
